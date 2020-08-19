@@ -2,7 +2,7 @@ green
 yellow
 blue
 black
-red
+red is a awesome color
 orange
 pink
 indigo
